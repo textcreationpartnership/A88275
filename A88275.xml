@@ -1,0 +1,443 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lilli's propheticall history of this yeares accidence, 1642. Or, Newes from the grammar-school, taken suddenly sick all over with conceite, occasioned by the doctors desperate opinion of her state, finding hoc regnum in the second declension. Wherein is found a preposition for the kings returning Londinum versus, going imediately before the concord. The misery of the times beating into our brains the memory of our first rules, all in one methode, for an everlasting impression of both, never to be forgotten.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88275</idno>
+            <idno type="STC">Wing L2205A</idno>
+            <idno type="STC">Thomason E126_15</idno>
+            <idno type="STC">ESTC R20098</idno>
+            <idno type="EEBO-CITATION">99861579</idno>
+            <idno type="PROQUEST">99861579</idno>
+            <idno type="VID">113717</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88275)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113717)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E126[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lilli's propheticall history of this yeares accidence, 1642. Or, Newes from the grammar-school, taken suddenly sick all over with conceite, occasioned by the doctors desperate opinion of her state, finding hoc regnum in the second declension. Wherein is found a preposition for the kings returning Londinum versus, going imediately before the concord. The misery of the times beating into our brains the memory of our first rules, all in one methode, for an everlasting impression of both, never to be forgotten.</title>
+                  <author>W. S.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 8.</note>
+                  <note>A verse satire.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 4".</note>
+                  <note>From t.p., enclosed within border of printer's ornaments, "The Author to the Reader. What means these tears, sobs, sighs, the land all o're? Why? Grammar's sick. Was't ever so before? W.S."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113717:1"/>
+            <pb facs="tcp:113717:1" rendition="simple:additions"/>
+            <p>Lilli's Propheticall Hiſtory Of this yeares ACCIDENCE, 1642. <hi>OR,</hi> Newes from the Grammar-ſchool, taken ſuddenly ſick all over with Conceite, occaſioned by the Doctors deſperate opinion of her ſtate, finding <hi>HOC REGNVM in the ſecond Declenſion.</hi>
+            </p>
+            <p>WHEREIN Is found a prepoſition for the Kings returning <hi>Londi<g ref="char:EOLhyphen"/>num verſus,</hi> going imediately before the Concord.</p>
+            <p>The miſery of the times beating into our brains the memory of our firſt Rules, all in one methode, for an everlaſting impreſſion of both, never to be forgotten.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="author_to_the_reader">
+                        <head>The Author to the Reader.</head>
+                        <l>What means theſe tears, ſobs, ſighs, the land all o're?</l>
+                        <l>Why? <hi>Grammar's</hi> ſick. Was't ever ſo before?</l>
+                        <closer>
+                           <signed>W.S.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <add>Nouemb 4</add>
+            </p>
+            <p>London printed in the yeare. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:113717:2"/>
+            <pb n="1" facs="tcp:113717:2"/>
+            <head>Newes from the Grammar-ſchool</head>
+            <lg>
+               <l>WHat? Speechleſſe Grammar? Boads this ſilence death?</l>
+               <l>Thou that wer't alwayes more <hi>In Speech</hi> then breath?</l>
+               <l>Mirth of the Land adieu: For Muſicke of all Arts,</l>
+               <l>Hath greateſt loſſe in thee, to loſe <hi>Eight Parts,</hi>
+               </l>
+               <l>
+                  <hi>Science</hi> lookes ſable, very <hi>School-boyes</hi> whine,</l>
+               <l>Re-<hi>Forme</hi> muſt they, or they muſt ſtill <hi>Decline.</hi>
+               </l>
+               <l>Like <hi>Bonitas,</hi> ſuch ruin'd <hi>Nounes</hi> there be,</l>
+               <l>Some by <hi>Themſelves</hi> ſtand, ſome <hi>ſupported</hi> be.</l>
+               <l>A deſp'rate crue now left, <hi>Numbers of Nounes,</hi>
+               </l>
+               <l>Some gone to ſet up Cyphering Schooles in Townes,</l>
+               <l>Some to the <hi>Temple</hi> e're they had their <hi>Graces,</hi>
+               </l>
+               <l>Like to prove <hi>Lawyers;</hi> for they have <hi>Six Caſes.</hi>
+               </l>
+               <l>If e're you ſaw at Seſſions, or at Size,</l>
+               <l>A troop of clamorous Clients with lowd cries.</l>
+               <l>In <hi>Caſes</hi> of all ſorts, and <hi>Nominations,</hi>
+               </l>
+               <l>Some <hi>Genitive, Dative,</hi> and ſome <hi>Accuſations;</hi>
+               </l>
+               <l>Some lowd for mercy cry, <hi>Magiſter O,</hi>
+               </l>
+               <l>Others <hi>Oblated Coram Magiſtro.</hi>
+               </l>
+               <l>This makes the Lawyer laugh, <hi>quem nos amamus,</hi>
+               </l>
+               <l>A bad as <hi>Grammar</hi> laught at <hi>Ignoramus.</hi>
+               </l>
+               <pb n="4" facs="tcp:113717:3"/>
+               <l> In time this needs muſt prove a <hi>Malum Omen,</hi>
+               </l>
+               <l>If <hi>Articles bee not borrowed of Pronomen</hi>
+               </l>
+               <l>In ſome new Spirituall Court for to recover</l>
+               <l>That which in Common law the Bar's caſt over.</l>
+               <l>Once <hi>Hic, Haec, Hoc,</hi> in their <hi>Bum Courts</hi> would bear it,</l>
+               <l>Recovering all, now <hi>Vocativo caret.</hi>
+               </l>
+               <l>But ſince 'twas <hi>Cado</hi> that made <hi>Caſe</hi> a <hi>Noune,</hi>
+               </l>
+               <l>Wonder no more that theſe came tumbling downe,</l>
+               <l>Beneath whoſe rotten ruines (ſo Fame renders)</l>
+               <l>Of deadly ſins no leſſe then <hi>ſeven Genders.</hi>
+               </l>
+               <l>Some <hi>Mals</hi> 2. <hi>Common</hi> with the <hi>Feminine,</hi>
+               </l>
+               <l>Some ſtand as <hi>Newters, doubtfull, Epicene.</hi>
+               </l>
+               <l>
+                  <hi>Hic mulier's</hi> falſe and damn'd, but out alas Sir,</l>
+               <l>If this world hold, there will another <hi>Hic Paſſ-er.</hi>
+               </l>
+               <l>As for <hi>Declenſions</hi> there were <hi>Five</hi> before,</l>
+               <l>If Biſhops downe, there's one <hi>Declenſion</hi> more.</l>
+               <l>God grant the learned <hi>Muſ-a</hi> new refining,</l>
+               <l>It's bad with them: for they are firſt declining.</l>
+               <l>Their <hi>Maſters</hi> next, whoſe <hi>Vocative</hi> exclamation</l>
+               <l>Goes neere to touch the <hi>Kingdomes Declination.</hi>
+               </l>
+               <l>But no help found in <hi>Regnum</hi> of <hi>Iacobus,</hi>
+               </l>
+               <l>We muſt <hi>Decline ambobus ambabus ambobus.</hi>
+               </l>
+               <l>There's hopes good Founders may repaire this loſſe,</l>
+               <l>If King and Councell do'nt each other croſſe.</l>
+               <l>Theſe <hi>Parens, manus</hi> (muſt pile) <hi>Lapides.</hi>
+               </l>
+               <l>To bring about declining <hi>Meridies.</hi>
+               </l>
+               <l>Or elſe what Grammar faith, you'l finde too true,</l>
+               <l>
+                  <hi>Decline</hi> once more, and <hi>Meri-dies</hi> adieu.</l>
+               <l>Then ends our ſubſtance: Next muſt be remembred</l>
+               <l>The Land's <hi>Noune-Adjective,</hi> or a thing diſmembred.</l>
+               <pb n="5" facs="tcp:113717:3"/>
+               <l> O wofull chance! of <hi>Bonus, bona, benum,</hi>
+               </l>
+               <l>Not ſo much left, as <hi>unus, una. unum.</hi>
+               </l>
+               <l>
+                  <hi>Felix</hi> comes trembling (as delinquent) hee</l>
+               <l>Charg' <hi>dis which Articles no leſſe then three.</hi>
+               </l>
+               <l>Theſe dayes are dolefull, and our learned <hi>Miſtris</hi>
+               </l>
+               <l>Hath no Declenſion left but mournſull <hi>Triſtis.</hi>
+               </l>
+               <l>Whe're this be for her pride, I will be ſparing,</l>
+               <l>The world may iudge; for ſhe is ſtill <hi>comparing</hi>
+               </l>
+               <l>Theſe learn'd confuſions heaped up together.</l>
+               <l>
+                  <hi>Good, had, great, little, lofty with the neather.</hi>
+               </l>
+               <l>In one degree is found now <hi>worſt and beſt,</hi>
+               </l>
+               <l>
+                  <hi>Maximus the great, and Minimus the leaſt.</hi>
+               </l>
+               <l>But in revenge of <hi>Grammars</hi> ſad deiection,</l>
+               <l>
+                  <hi>Pronomen's</hi> up in Chevalier complection,</l>
+               <l>With 15. <hi>Noune-like</hi> Lads all of one Nation.</l>
+               <l>Eight prime ones were indeed, <hi>ſix have relation</hi>
+               </l>
+               <l>(To this ſad Tragedy) then theſe none more,</l>
+               <l>
+                  <hi>Rehearſe the thing that's ſpoken of before.</hi>
+               </l>
+               <l>Others like Heralds, derive their pedigree</l>
+               <l>From <hi>Ego, Ille, is, &amp; ipſe</hi> hee.</l>
+               <l>But here's our fate in't, <hi>I, thou, and one more,</hi>
+               </l>
+               <l>
+                  <hi>Muſt be declin'd in manner as before.</hi>
+               </l>
+               <l>Theſe <hi>Pronounes</hi> plunder, ranſack, rend and teare it,</l>
+               <l>The <hi>Vocative</hi> never held, <hi>&amp; Nominativo caret.</hi>
+               </l>
+               <l>
+                  <hi>Numbers</hi> fel (down from Grammars latin cazements)</l>
+               <l>2. into <hi>one</hi> (the Muſes great amazements)</l>
+               <l>The countrey ſhakes, as frighted Duckes <hi>ab aqua,</hi>
+               </l>
+               <l>Fly gagling homewards <hi>quic quid, quoquo quaqua.</hi>
+               </l>
+               <l>
+                  <hi>Heres to be noted,</hi> how theſe deſperate fractions</l>
+               <l>Made <hi>Gentiles, Nations, fall to Sects and Factions.</hi>
+               </l>
+               <pb n="6" facs="tcp:113717:4"/>
+               <l> Theſe had prefer'd <hi>three perſons to one Tenſe,</hi>
+               </l>
+               <l>That brought our Church to this ſad <hi>Accidence.</hi>
+               </l>
+               <l>(Gods) <hi>Verbum part of ſpeech</hi> (come from above)</l>
+               <l>
+                  <hi>Declines from doing, as Amo I doe love.</hi>
+               </l>
+               <l>Some thinke theſe ruines roſe from Cathedrals,</l>
+               <l>
+                  <hi>And ſuch as have no Perſons cal'd Imperſonals,</hi>
+               </l>
+               <l>Who meanes theſe ſhall be <hi>heard or underſtood,</hi>
+               </l>
+               <l>Muſt give them <hi>Time,</hi> or take them in the <hi>Mood.</hi>
+               </l>
+               <l>Gerunds <hi>Do Di,</hi> (or elſe like Bulls live ſome)</l>
+               <l>
+                  <hi>Who certaine voyces had,</hi> but they were <hi>Durn.</hi>
+               </l>
+               <l>
+                  <hi>Supines</hi> a world, but <hi>Doceo &amp; Lego.</hi>
+               </l>
+               <l>Such active (Preachers) <hi>make their end in O.</hi>
+               </l>
+               <l>Theſe dolefull <hi>times preſent, Perfect</hi>-ion <hi>nuſquam,</hi>
+               </l>
+               <l>But what is growne <hi>imperfect, paſt,</hi> or <hi>pluſquam.</hi>
+               </l>
+               <l>What's in the <hi>Future</hi> was of truth foretold,</l>
+               <l>Love in theſe laſt dayes <hi>ſhall</hi> or <hi>will</hi> grow cold.</l>
+               <l>Now Mufes ſonnes, ſome new invention have yee,</l>
+               <l>For to refine <hi>Amo, amas, amavi.</hi>
+               </l>
+               <l>Not in <hi>command</hi> am I, but <hi>wiſhing mood</hi>
+               </l>
+               <l>
+                  <hi>Potentia</hi> had <hi>ſub-joyn'd</hi> loves brotherhood.</l>
+               <l>
+                  <hi>To love is infinite,</hi> yet ſome ſet <hi>about</hi> it;</l>
+               <l>But 'tis in <hi>Rus</hi> then, (for in Towne I doubt it)</l>
+               <l>Where 'twixt the <hi>active and the paſſive voyce,</hi>
+               </l>
+               <l>We know <hi>ſum</hi> newter ſtand, jeere and reioyce.</l>
+               <l>Profeſſed <hi>Sufferers</hi> whoſe minds ſtand right,</l>
+               <l>
+                  <hi>Are knowne</hi> by <hi>Or</hi> (an Hebrew word for light.)</l>
+               <l>Divers revolt while Grammar groan'd <hi>aegrotans,</hi>
+               </l>
+               <l>
+                  <hi>Away runs from her rule</hi> ſtrong <hi>poſsum potens,</hi>
+               </l>
+               <l>
+                  <hi>Malo more willing</hi> (fled then all the reſt)</l>
+               <l>
+                  <hi>Ferendus borne to ſuffer,</hi> (ſuffered leaſt.)</l>
+               <pb n="7" facs="tcp:113717:4"/>
+               <l> All voluntaries for their owne will ſtood,</l>
+               <l>
+                  <hi>Poſſum, volo, mal' have no Imperative Mood.</hi>
+               </l>
+               <l>The ſtout Imperſonall this ruine never righteth,</l>
+               <l>Who ſ'ere <hi>declines Delectat it delighteth.</hi>
+               </l>
+               <l>At laſt a <hi>part of Speech</hi> (came in by fate)</l>
+               <l>With theſe ſad fortunes to <hi>participate.</hi>
+               </l>
+               <l>Kin both to Noune and Verb, for whoſe deare ſake,</l>
+               <l>Made ſome Declenſions, and in peeces brake,</l>
+               <l>Whoſe ſplinters were tooke up as <hi>ing &amp; Ens,</hi>
+               </l>
+               <l>The Emblemes of our Engliſh preſent Tenſe.</l>
+               <l>
+                  <hi>Old Authors</hi> (here lye buried) in <hi>Rus</hi> and <hi>Dus,</hi>
+               </l>
+               <l>No uſe of'm now, unleſſe of learn'd <hi>Amandus.</hi>
+               </l>
+               <l>Pretences intricate, each mans thoughts tranſcending,</l>
+               <l>Like <hi>Adjectives have their threefold divers ending.</hi>
+               </l>
+               <l>
+                  <hi>Ad-verbs</hi> (a crue came running, not <hi>Ad</hi> Nounes,</l>
+               <l>As people flock to Lecturers in Townes,</l>
+               <l>All of all ſorts, <hi>ſome ſcoffing, ſome comparing,</hi>
+               </l>
+               <l>
+                  <hi>Some flattring, asking, doubting, and ſome ſwearing.</hi>
+               </l>
+               <l>
+                  <hi>Some chuſing, parting, gathering,</hi> (almes diminiſhed)</l>
+               <l>
+                  <hi>Some onely come to ſee a thing not finiſhed.</hi>
+               </l>
+               <l>Vnleſſe the Muſes doe forthwith ſend hither</l>
+               <l>
+                  <hi>A part of ſpeech</hi> to ioyne theſe things together,</l>
+               <l>Such bad <hi>Conditionals</hi> muſt never looke to thrive,</l>
+               <l>
+                  <hi>Whoſe copulate Conjunctions prove ſo diſ-junctive.</hi>
+               </l>
+               <l>Ne're ſuch confuſion ſince the Babylonian,</l>
+               <l>All's out of order, <hi>Quando</hi> ſet for <hi>Quoniam.</hi>
+               </l>
+               <l>In Grammar-ſchoole now you may heare a noyſe</l>
+               <l>Of mirth and ſorrow an imperfect voyce.</l>
+               <l>
+                  <hi>Some calling, jeering, curſing of their brothers,</hi>
+               </l>
+               <l>
+                  <hi>Some doe keepe ſilence, as Au and ſuch others.</hi>
+               </l>
+               <pb n="8" facs="tcp:113717:5"/>
+               <l> Such <hi>Interjections</hi> (now the learned finde)</l>
+               <l>Hath cauſ'd <hi>this ſudden paſſion of the minde,</hi>
+               </l>
+               <l>If worſe diſeaſes may be, <hi>ſome exclaiming,</hi>
+               </l>
+               <l>
+                  <hi>Srme ſcorning, ſhunning, dreading, ſome diſdaining.</hi>
+               </l>
+               <l>A <hi>Prepoſition</hi> Mountebank that mockt us,</l>
+               <l>
+                  <hi>Made a</hi> (Divine) <hi>compuſure</hi> of <hi>Indoctus,</hi>
+               </l>
+               <l>Whoſe help (though much admir'd in divers places)</l>
+               <l>Could ſerve (in all the world) but <hi>for two caſes.</hi>
+               </l>
+               <l>Some learned Doctor in the world, <hi>ſi quis eſt,</hi>
+               </l>
+               <l>Now ſhew your skill; for now <hi>ſub judice lis eſt.</hi>
+               </l>
+               <l>Our <hi>penes</hi> great, the cure can none rehearſe us.</l>
+               <l>Till our great King returne <hi>Londinum verſus.</hi>
+               </l>
+               <l>
+                  <hi>Grammar hath three,</hi> but then we will beſeech</l>
+               <l>
+                  <hi>Charles</hi> for one <hi>Concord</hi> in the Engliſh ſpeech.</l>
+               <l>When Englands hoſts like heavens, moves on one <hi>axis</hi>
+               </l>
+               <l>Then wee'l take further forth in our Syntaxis.</l>
+            </lg>
+            <epigraph>
+               <bibl>Iſa. 1<hi rend="sup">ſt</hi>. the 4<hi rend="sup">th.</hi>
+               </bibl>
+               <q>
+                  <l>Ah ſinfull Nation!</l>
+                  <l>Muſt God fetch blood er'e there be reformation?</l>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Pardon <hi>the ſtout,</hi> pag. 7. l. 3.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113717:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
